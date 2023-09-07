@@ -46,6 +46,7 @@ Kendiniz denemek ve kullanmak için hazır mısınız? İşte başlamanız için
 
 1. Bu depoyu yerel makinenize klonlayın.
 2. `index.html` dosyasını favori web tarayıcınızda açın.
+3. Uygulamayı başlatmak için [bu](https://burakunal28.github.io/post-case-study) bağlantıya gidin.
 
 Hazır! Artık uygulamayı kullanarak gönderi oluşturabilir, düzenleyebilir ve yönetebilirsiniz.
 
@@ -116,6 +117,7 @@ Ready to dive in and try it out for yourself? Here's how to get started:
 
 1. Clone this repository to your local machine.
 2. Open the `index.html` file in your favorite web browser.
+3. Go to [this](https://burakunal28.github.io/post-case-study) link to start the application.
 
 Voila! You're all set to use the application to create, edit, and manage your posts.
 
