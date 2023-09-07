@@ -141,7 +141,7 @@ function createPostElement(text) {
     avatarCol.classList.add('col-2', 'avatar-col');
 
     const avatarImg = document.createElement('img');
-    avatarImg.src = '/img/avatar.png';
+    avatarImg.src = 'img/avatar.png';
     avatarImg.width = 40;
     avatarImg.height = 40;
     avatarCol.appendChild(avatarImg);
