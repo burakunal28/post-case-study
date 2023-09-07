@@ -1,6 +1,6 @@
 # Post Case Projesi
 
-Post Case projesine hoş geldiniz, yazı oluşturmayı ve yönetmeyi kolaylaştıran kullanıcı dostu bir web uygulamasıdır. Düşüncelerinizi, deneyimlerinizi paylaşmak veya sadece eğlenmek isterseniz, bu proje tam size göre. İşte nasıl çalıştığı hakkında bilmeniz gereken her şey.
+Post Case projesine hoş geldiniz, yazı oluşturmayı ve yönetmeyi kolaylaştıran kullanıcı dostu bir web uygulamasıdır.
 
 ## Proje Yapısı
 
@@ -71,7 +71,7 @@ Bootstrap geliştiricilerine, inanılmaz CSS ve JavaScript bileşenleri için b�
 
 # Post Case Project
 
-Welcome to the Post Case project, a user-friendly web application designed for creating and managing posts. Whether you want to share your thoughts, experiences, or just have some fun, this project has got you covered. We've used a mix of HTML, CSS, JavaScript, and Bootstrap to make it all happen. Below, you'll find everything you need to know about how it works.
+Welcome to the Post Case project, a user-friendly web application designed for creating and managing posts.
 
 ## Project Structure
 
